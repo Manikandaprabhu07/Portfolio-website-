@@ -1,6 +1,6 @@
 # 💼 Personal Portfolio Website
 
-This is a simple, clean, and responsive **single-page portfolio website** created using **HTML and CSS**. It showcases a developer’s profile, projects, and contact details. Built as part of the **CODTECH Internship Task-3**.
+This is a simple, clean, and responsive **single-page portfolio website** created using **HTML and CSS**. It showcases a developer’s profile, projects, and contact details.
 
 ---
 
@@ -23,9 +23,7 @@ This is a simple, clean, and responsive **single-page portfolio website** create
 
 ## 📷 Preview
 
-![Portfolio Preview](preview.png)
-
-> (You can take a screenshot of your final project and name it `preview.png` in the root folder)
+![Image](https://github.com/user-attachments/assets/80839b2d-581c-41c2-9f33-287b757cab4e)
 
 ---
 
@@ -66,8 +64,3 @@ codtech-task3-portfolio/
 
 This project is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
 
----
-
-## 🙌 Acknowledgement
-
-This project was created as part of the **CODTECH IT Solutions Pvt Ltd Internship** – Task-3 (Portfolio Webpage).
